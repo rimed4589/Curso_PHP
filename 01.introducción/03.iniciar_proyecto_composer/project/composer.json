@@ -1,7 +1,6 @@
 {
     "name": "root/www",
     "description": "php 8",
-    "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -10,12 +9,12 @@
     },
     "authors": [
         {
-            "name": "Héctor Franco",
-            "email": "hector.franco.aceituno@gmail.com"
+            "name": "john Doe",
+            "email": "john@example.com"
         }
     ],
     "minimum-stability": "stable",
     "require-dev": {
-        "phpunit/phpunit": "^9.5"
+        "phpunit/phpunit":"^9.5"
     }
 }
